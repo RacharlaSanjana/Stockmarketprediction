@@ -9,12 +9,12 @@ This repository contains code for predicting stock market prices using Long Shor
 ### Usage
 1. Install the required libraries mentioned above.
 2. Clone the repository.
-3. Run the `prediction_stocks.py` script.
+3. Run the `prediction_stocks.ipynb` script.
 4. The script will fetch historical stock market data, preprocess it, train an LSTM model, and predict future prices.
 5. Predicted prices will be visualized alongside actual prices using matplotlib.
 
 ### Files
-- `prediction_stocks.py`: Main Python script containing code for data fetching, preprocessing, model training, and prediction.
+- `prediction_stocks.ipynb`: Main Python script containing code for data fetching, preprocessing, model training, and prediction.
 - `my_model.h5`: Saved trained LSTM model.
 
 ### Instructions
